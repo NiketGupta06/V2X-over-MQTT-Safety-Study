@@ -1,0 +1,9 @@
+Condition,Gap_m,FirstUnsafe_Cars,Offered_msgs_s
+base QoS0 (n=3),20,NaN,NaN
+base QoS0 (n=3),25,NaN,NaN
+base QoS0 (n=3),30,NaN,NaN
+base QoS0 (n=3),40,NaN,NaN
+base QoS1 (n=3),20,NaN,NaN
+base QoS1 (n=3),25,NaN,NaN
+base QoS1 (n=3),30,NaN,NaN
+base QoS1 (n=3),40,NaN,NaN
